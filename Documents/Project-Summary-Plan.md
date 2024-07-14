@@ -61,7 +61,7 @@ The project includes a React-based web interface, a NestJS-based server, and a b
 - **Musab Kardeş:** Full Stack Developer
 - **Ömer Sarıçam:** Backend Developer
 - **Muhammed Yasir Güneş:** Backend Developer & Servers Side Developer
-- **Akif Safa Angi:** Backend Developer Engineer
+- **Akif Safa Angi:** Backend Developer
 - **Feridun Taha Açıkyürek:** Frontend Developer & Test and Quality Assurance Specialist  
 
 
