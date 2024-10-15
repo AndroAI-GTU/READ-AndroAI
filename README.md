@@ -33,5 +33,5 @@ Although the source code is private at the moment, we welcome feedback, suggesti
 ### Contact Us:
 For any questions or inquiries, feel free to reach out to us. We're excited to bring this project to the broader community and appreciate your interest in AndroAI!
 
-Contact: [ahmetozdemirrr](ahmetozdemiir.ao@gmail.com)
+Contact: [ahmetozdemirrr](mailto:ahmetozdemiir.ao@gmail.com)
 Thank you for visiting!
